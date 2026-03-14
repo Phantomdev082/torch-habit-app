@@ -1,20 +1,39 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Torch Habit App
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+Torch Habit App is a powerful tool designed to help you build and maintain positive habits effortlessly. Whether you're aiming to develop a new skill, improve your health, or enhance productivity, our app provides the structure and motivation you need to succeed!
 
-View your app in AI Studio: https://ai.studio/apps/0a05dcbf-49a1-42df-a2c0-75ea45bf0924
+## Features
 
-## Run Locally
+- **User-Friendly Interface:** Intuitive design for seamless navigation.
+- **Customizable Habits:** Create and track habits tailored to your goals.
+- **Progress Tracking:** Visualize your journey with graphs and statistics.
+- **Reminders & Notifications:** Keep yourself accountable with timely reminders.
+- **Community Support:** Connect with others, share progress, and stay motivated.
 
-**Prerequisites:**  Node.js
+## Screenshots
 
+![Habit Tracking Dashboard](link-to-screenshot-1)
+![Habit Details Page](link-to-screenshot-2)
+![Progress Graphs](link-to-screenshot-3)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+*Replace the screenshot links with actual image URLs of your app.*
+
+## Tech Stack
+
+- **Frontend:** React
+- **Backend:** Node.js
+- **Database:** MongoDB
+- **Authentication:** JWT
+- **Deployment:** Heroku
+
+## Get Started
+
+Ready to embark on your habit-building journey? Clone the repository, install the dependencies, and start tracking your progress today!
+
+```bash
+git clone https://github.com/Phantomdev082/torch-habit-app.git
+cd torch-habit-app
+npm install
+npm start
