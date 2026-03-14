@@ -2,20 +2,25 @@
 
 Minimal habit ritual tracker.
 
-One habit.
-One flame.
-One action per day.
+**One habit. One flame. One action per day.**
+
+---
 
 ## Screenshots
 
+*(coming soon)*
+
+---
 
 ## Features
 
-- single habit tracking
-- daily ritual check
-- minimal interface
-- no accounts
-- no distractions
+- Single habit tracking
+- Daily ritual check
+- Minimal interface
+- No accounts
+- No distractions
+
+---
 
 ## Why this exists
 
@@ -23,18 +28,12 @@ Most habit apps become productivity monsters.
 
 Torch is intentionally minimal.
 
+---
+
 ## Installation
 
-git clone ...
+```bash
+git clone https://github.com/Phantomdev082/torch-habit-tracker
+cd torch-habit-tracker
 npm install
 npm run dev
-
-## Roadmap
-
-- android release
-- flame animation
-- notifications
-
-## License
-
-MIT
