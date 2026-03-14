@@ -1,35 +1,40 @@
-# 🕯️ Torch Habit Tracker
+# Torch 🔥
 
-A beautiful, minimalist habit tracking app with animated candle streaks. Track your daily habits, build streaks, and visualize your progress with an elegant candlelight animation.
+Minimal habit ritual tracker.
 
-## ✨ Features
+One habit.
+One flame.
+One action per day.
 
-- 🎯 **Habit Tracking** - Track daily habits with persistent streak counters
-- 🔥 **Streak Counter** - See your current and longest streaks at a glance
-- 🕯️ **Animated Candle** - Beautiful, responsive candle visualization that grows with your streaks
-- 💾 **Local Storage** - Your data persists across sessions
-- 📱 **Cross-Platform** - Built with React Native Web (works on desktop and mobile browsers)
-- 🎨 **Modern UI** - Clean, dark-themed interface with smooth animations
-- ⚡ **Fast** - Built with Vite for lightning-fast development and builds
+## Screenshots
+(slika aplikacije)
 
-## 🚀 Quick Start
+## Features
 
-### Prerequisites
-- **Node.js** (v16 or higher) - [Download here](https://nodejs.org/)
-- **npm** (comes with Node.js)
+- single habit tracking
+- daily ritual check
+- minimal interface
+- no accounts
+- no distractions
 
-### Installation & Running
+## Why this exists
 
-```bash
-# 1. Clone the repository
-git clone https://github.com/Phantomdev082/torch-habit-app.git
-cd torch-habit-app
+Most habit apps become productivity monsters.
 
-# 2. Install dependencies
-npm install --legacy-peer-deps
+Torch is intentionally minimal.
 
-# 3. Start the development server
+## Installation
+
+git clone ...
+npm install
 npm run dev
 
-# 4. Open your browser
-# Visit: http://localhost:3000
+## Roadmap
+
+- android release
+- flame animation
+- notifications
+
+## License
+
+MIT
