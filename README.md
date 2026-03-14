@@ -7,7 +7,7 @@ One flame.
 One action per day.
 
 ## Screenshots
-(slika aplikacije)
+
 
 ## Features
 
